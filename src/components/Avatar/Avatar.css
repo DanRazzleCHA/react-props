@@ -1,0 +1,35 @@
+.circular {
+  margin: 10px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.square-image {
+  margin: 10px;
+  border-radius: 8px;
+  width: 200px;
+  height: 200px;
+}
+
+.text-fields {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
